@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0; url=https://gist.githubusercontent.com/brenoservices/697812a1fd360dbd3fe3da574d30e539/raw/c52522a7076004e75f9c4ba0f07eaeb8131a6a10/Plus.txt">
+    
+    <title>Перенаправление...</title>
+</head>
+<body>
+    <script>
+        // 2. Дополнительный способ перенаправления через JavaScript (для надежности)
+        window.location.href = "https://gist.githubusercontent.com/brenoservices/697812a1fd360dbd3fe3da574d30e539/raw/c52522a7076004e75f9c4ba0f07eaeb8131a6a10/Plus.txt";
+    </script>
+    
+    <p>Если перенаправление не произошло, <a href="https://gist.githubusercontent.com/brenoservices/697812a1fd360dbd3fe3da574d30e539/raw/c52522a7076004e75f9c4ba0f07eaeb8131a6a10/Plus.txt">нажмите здесь</a>.</p>
+</body>
+</html>
+
